@@ -253,7 +253,7 @@
    display: grid;
    grid-template-columns: repeat(4, 1fr);
    gap: 2px;
-   margin: 1%;
+   margin: 3% 20px;
    text-align: center;
    border: #070303;
  }
