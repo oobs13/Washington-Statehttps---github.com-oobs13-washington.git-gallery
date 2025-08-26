@@ -696,3 +696,13 @@
 
  }
 
+ footer {
+   background-color: #F4F2ED;
+   text-align: center;
+   padding: 1em;
+   margin-top: 2em;
+   border-radius: 20px;
+   margin-left: 5%;
+   margin-right: 4%;
+   margin-bottom: 3%;
+ }
