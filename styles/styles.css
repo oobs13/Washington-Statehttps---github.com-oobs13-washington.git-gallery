@@ -38,6 +38,10 @@
      gap: 0px;
 
    }
+     .index-paragraphs-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
  }
 
  @media only screen and (max-width: 600px) {
