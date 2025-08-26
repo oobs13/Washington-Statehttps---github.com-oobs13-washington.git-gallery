@@ -59,7 +59,10 @@
     margin: 2%;
     padding: 15px;
   }
-
+ .index-paragraphs-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
   form {
     width: 95%;
     padding: 15px;
